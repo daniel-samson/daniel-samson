@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniel-samson
-- 👀 I’m interested in Deno, NodeJS and Rust.
+- 👀 I’m interested in Deno, NodeJS, React, NestJS and Rust.
 
 <!---
 daniel-samson/daniel-samson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
