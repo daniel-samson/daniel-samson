@@ -9,7 +9,7 @@
 - [Making NVIM an IDE](https://github.com/daniel-samson/neovim)
 - [Creator of teensyphp framework](https://github.com/daniel-samson/teensyphp)
 - [Creating SuiteP Icon set for SuiteCRM](https://daniel-samson.github.io/suitepicon/)
-- Being a core developer on [SuiteCRM](https://github.com/salesagility/SuiteCRM)
+- Being a core developer on [SuiteCRM](https://github.com/salesagility/SuiteCRM) (2015 - 2018)
 - [Creating a IMAP compliant package in PHP](https://github.com/daniel-samson/Pimap)
 <!---
 daniel-samson/daniel-samson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
