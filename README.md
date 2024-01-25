@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @daniel-samson
 - 👀 I’m interested in Deno, NodeJS, React, NestJS and Rust.
+- 💬 Contact me on [LinkedIn](http://www.linkedin.com/in/danieljsamson)
 
 ### Known for
 
