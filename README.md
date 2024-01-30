@@ -10,7 +10,7 @@
 - [Creator of teensyphp framework](https://github.com/daniel-samson/teensyphp)
 - [Creating SuiteP Icon set for SuiteCRM](https://daniel-samson.github.io/suitepicon/)
 - Being a core developer on [SuiteCRM](https://github.com/salesagility/SuiteCRM) (2015 - 2018)
-- [Creating a IMAP compliant package in PHP](https://github.com/daniel-samson/Pimap)
+- [Creating a IMAP compliant client in PHP](https://github.com/daniel-samson/Pimap)
 <!---
 daniel-samson/daniel-samson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
