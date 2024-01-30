@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniel-samson
-- 👀 I’m interested in Deno, NodeJS, React, NestJS, MedusaJS, Laravel and Rust.
+- 👀 I’m interested in Deno, NodeJS, SolidJS, React, NestJS, MedusaJS, Laravel and Rust.
 - 💬 Contact me on [LinkedIn](http://www.linkedin.com/in/danieljsamson)
 
 ### Known for
