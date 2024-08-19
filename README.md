@@ -4,6 +4,7 @@
 
 ### Known for
 
+- Being a software engineering polyglot
 - [Creator of paginate rust crate](https://github.com/daniel-samson/paginate)
 - [Rust http api starter template](https://github.com/daniel-samson/http-api-rs)
 - [Making NVIM an IDE](https://github.com/daniel-samson/neovim)
