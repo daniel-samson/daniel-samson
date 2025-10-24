@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniel-samson
-- 👀 I’m interested in Laravel, Java, Micronaut, Node, React and Rust.
+- 👀 I’m interested in Laravel, Java, Swift, Node.js, and React.
 - 💬 Contact me on [LinkedIn](http://www.linkedin.com/in/danieljsamson)
 
 ### Known for
