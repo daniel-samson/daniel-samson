@@ -42,18 +42,17 @@
     <strong>The single way to manipulate files in NodeJS.</strong>
   </p>
 </div>
+<hr>
+<div align="center">
+  <a href="https://suitecrm.com/">
+    <img src="https://camo.githubusercontent.com/834cab6596bdfb763b6487fa162f9e2e12f82c8687b6080900c435def18cc0a9/68747470733a2f2f737569746563726d2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f31322f6c6f676f2e706e67" alt="Logo" width="auto" height="88">
+  </a>
+  <p>
+    <strong>The worlds #1 Open Source CRM.</strong>
+  </p>
+</div>
 
 
-### Known for
-
-- [Creator of Simple Standup](https://simplestandup.app/)
-- [Creator of paginate rust crate](https://github.com/daniel-samson/paginate)
-- [Rust http api starter template](https://github.com/daniel-samson/http-api-rs)
-- [Making NVIM an IDE](https://github.com/daniel-samson/neovim)
-- [Creator of teensyphp framework](https://github.com/daniel-samson/teensyphp)
-- [Creating SuiteP Icon set for SuiteCRM](https://daniel-samson.github.io/suitepicon/)
-- Being a core developer on [SuiteCRM](https://github.com/salesagility/SuiteCRM) (2015 - 2018)
-- [Creating a IMAP compliant client in PHP](https://github.com/daniel-samson/Pimap)
 <!---
 daniel-samson/daniel-samson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
