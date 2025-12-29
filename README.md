@@ -1,6 +1,48 @@
-- 👋 Hi, I’m @daniel-samson
-- 👀 I’m interested in Laravel, Java, Swift, Node.js, and React.
+# Hi, I’m @daniel-samson 👋 
+
+- 👀 I’m interested in software engineering
 - 💬 Contact me on [LinkedIn](http://www.linkedin.com/in/danieljsamson)
+
+## Projects
+
+<div align="center">
+  <a href="https://simplestandup.app">
+    <img src="https://simplestandup.app/favicon.svg" alt="Logo" width="auto" height="88">
+  </a>
+  <p>
+    <strong>Simple way to keep standups running quickly</strong>
+  </p>
+</div>
+<hr>
+<div align="center">
+  <a href="https://github.com/daniel-samson/teensyphp">
+    <img src="https://github.com/daniel-samson/teensyphp/blob/main/resources/teensy-php-logo.svg" alt="Logo" width="auto" height="88">
+  </a>
+  <p>
+    <strong>Teensy PHP is a micro web framework for rapidly creating REST APIs and hypermedia.</strong>
+  </p>
+</div>
+<hr>
+<div align="center">
+  <a href="https://github.com/daniel-samson/cryptobro">
+    <img src="https://github.com/daniel-samson/cryptobro/blob/main/design/cryptobro-logo-v1.svg" alt="Logo" width="328" height="88">
+  </a>
+  <p>
+    <strong>A web application that displays information about the latest cryptocurrency prices.</strong>
+  </p>
+</div>
+
+![Screenshot](https://github.com/daniel-samson/cryptobro/blob/main/resources/screenshot.png)
+<hr>
+<div align="center">
+  <a href="https://typefs.io">
+    <img src="https://typefs.io/img/logo.svg" alt="Logo" width="auto" height="88">
+  </a>
+  <p>
+    <strong>Simple way to keep standups running quickly</strong>
+  </p>
+</div>
+https://typefs.io/img/logo.svg
 
 ### Known for
 
