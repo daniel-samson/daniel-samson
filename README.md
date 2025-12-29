@@ -39,10 +39,10 @@
     <img src="https://typefs.io/img/logo.svg" alt="Logo" width="auto" height="88">
   </a>
   <p>
-    <strong>Simple way to keep standups running quickly</strong>
+    <strong>The single way to manipulate files in NodeJS.</strong>
   </p>
 </div>
-https://typefs.io/img/logo.svg
+
 
 ### Known for
 
