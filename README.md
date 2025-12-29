@@ -15,7 +15,7 @@
 </div>
 <hr>
 <div align="center">
-  <a href="https://github.com/daniel-samson/teensyphp">
+  <a href="https://teensyphp.com">
     <img src="https://github.com/daniel-samson/teensyphp/blob/main/resources/teensy-php-logo.svg" alt="Logo" width="auto" height="88">
   </a>
   <p>
