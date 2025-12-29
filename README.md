@@ -3,7 +3,7 @@
 - 👀 I’m interested in software engineering
 - 💬 Contact me on [LinkedIn](http://www.linkedin.com/in/danieljsamson)
 
-## Projects I have worked on
+## Open Source Projects (I have worked on)
 
 <div align="center">
   <a href="https://simplestandup.app">
