@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://simplestandup.app">
-    <img src="https://simplestandup.app/favicon.svg" alt="Logo" width="auto" height="88">
+    <img src="https://github.com/daniel-samson/simple-standup-app/blob/main/resouces/web-logo.svg" alt="Logo" width="auto" height="88">
   </a>
   <p>
     <strong>Simple way to keep standups running quickly</strong>
