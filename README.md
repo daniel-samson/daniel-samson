@@ -3,7 +3,7 @@
 - 👀 I’m interested in software engineering
 - 💬 Contact me on [LinkedIn](http://www.linkedin.com/in/danieljsamson)
 
-## Note worthy Open Source Projects (I have worked on)
+## Noteworthy Open Source Projects (I have worked on)
 <div align="center">
   <a href="https://phpcompatible.dev">
     <img src="https://github.com/php-compatible/.github/blob/main/resources/php-compatible-logo.png" alt="PHP Compatible" width="auto" height="88">
