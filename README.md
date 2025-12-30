@@ -9,7 +9,7 @@
     <img src="https://github.com/php-compatible/.github/blob/main/resources/php-compatible-logo.png" alt="PHP Compatible" width="auto" height="88">
   </a>
   <p>
-    <strong>To help give developers an automated upgrade path, so that old PHP projects can be upgraded to the latest PHP standards with ease.</strong>
+    <strong>Make upgrading old PHP easy and simple.</strong>
   </p>
 </div>
 
