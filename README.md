@@ -5,11 +5,11 @@
 
 ## Open Source Projects (I have worked on)
 <div align="center">
-  <a href="https://github.com/php-compatible">
+  <a href="https://phpcompatible.dev">
     <img src="https://github.com/php-compatible/.github/blob/main/resources/php-compatible-logo.png" alt="PHP Compatible" width="auto" height="88">
   </a>
   <p>
-    <strong>A set of packages that backfill new php features for older php projects</strong>
+    <strong>To help give developers an automated upgrade path, so that old PHP projects can be upgraded to the latest PHP standards with ease.</strong>
   </p>
 </div>
 
