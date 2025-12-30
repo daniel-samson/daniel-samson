@@ -4,6 +4,16 @@
 - 💬 Contact me on [LinkedIn](http://www.linkedin.com/in/danieljsamson)
 
 ## Open Source Projects (I have worked on)
+<div align="center">
+  <a href="https://github.com/php-compatible">
+    <img src="https://github.com/php-compatible/.github/blob/main/resources/php-compatible-logo.png" alt="PHP Compatible" width="auto" height="88">
+  </a>
+  <p>
+    <strong>A set of packages that backfill new php features for older php projects</strong>
+  </p>
+</div>
+
+<hr>
 
 <div align="center">
   <a href="https://simplestandup.app">
