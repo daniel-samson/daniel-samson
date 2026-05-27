@@ -4,14 +4,6 @@
 - 💬 Contact me on [LinkedIn](http://www.linkedin.com/in/danieljsamson)
 
 ## Noteworthy Open Source Projects (I have worked on)
-<div align="center">
-  <a href="https://phpcompatible.dev">
-    <img src="https://github.com/php-compatible/.github/blob/main/resources/php-compatible-logo.png" alt="PHP Compatible" width="auto" height="88">
-  </a>
-  <p>
-    <strong>Make upgrading old PHP easy and simple.</strong>
-  </p>
-</div>
 
 <hr>
 
@@ -30,26 +22,6 @@
   </a>
   <p>
     <strong>Teensy PHP is a micro web framework for rapidly creating REST APIs and hypermedia.</strong>
-  </p>
-</div>
-<hr>
-<div align="center">
-  <a href="https://github.com/daniel-samson/cryptobro">
-    <img src="https://github.com/daniel-samson/cryptobro/blob/main/design/cryptobro-logo-v1.svg" alt="Logo" width="328" height="88">
-  </a>
-  <p>
-    <strong>A web application that displays information about the latest cryptocurrency prices.</strong>
-  </p>
-</div>
-
-![Screenshot](https://github.com/daniel-samson/cryptobro/blob/main/resources/screenshot.png)
-<hr>
-<div align="center">
-  <a href="https://typefs.io">
-    <img src="https://typefs.io/img/logo.svg" alt="Logo" width="auto" height="88">
-  </a>
-  <p>
-    <strong>The single way to manipulate files in NodeJS.</strong>
   </p>
 </div>
 <hr>
