@@ -5,8 +5,6 @@
 
 ## Noteworthy Open Source Projects (I have worked on)
 
-<hr>
-
 <div align="center">
   <a href="https://simplestandup.app">
     <img src="https://github.com/daniel-samson/simple-standup-app/blob/main/resouces/web-logo.svg" alt="Logo" width="auto" height="88">
@@ -33,7 +31,6 @@
     <strong>The worlds #1 Open Source CRM.</strong>
   </p>
 </div>
-
 
 <!---
 daniel-samson/daniel-samson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
