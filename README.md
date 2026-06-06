@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in software engineering
 - 💬 Contact me on [LinkedIn](http://www.linkedin.com/in/danieljsamson)
-- 🌍 Follow me on [my blog](https://danieljsamson.com)
+- 🌍 Follow me on [thoughts of a sofware engineer (my blog)](https://danieljsamson.com)
 
 ## Noteworthy Open Source Projects (I have worked on)
 
