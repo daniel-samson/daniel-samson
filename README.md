@@ -17,7 +17,7 @@
 <hr>
 <div align="center">
   <a href="https://chronadra.com">
-    <img src="https://github.com/daniel-samson/chronadra-app/blob/main/public/logo-color.png?raw=true" alt="Logo" width="auto" height="88">
+    <img src="https://chronadra.com//logo-color.png" alt="Logo" width="auto" height="88">
   </a>
   <p>
     <strong>Stay on top of your tasks with Chronadra.</strong>
